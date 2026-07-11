@@ -1,0 +1,15 @@
+{
+  "name": "neural-cipher-8718",
+  "version": "0.1.0",
+  "generator": "PushForge Engine",
+  "capabilities": [
+    "ideate",
+    "compose",
+    "commit"
+  ],
+  "manifest": {
+    "entry": "src/index.ts",
+    "seed": 6900,
+    "createdAt": "2026-07-11T15:01:32.683Z"
+  }
+}
